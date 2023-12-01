@@ -1,0 +1,12 @@
+[
+  { "title": "Inception", "year": 2010, "cast": ["Leonardo DiCaprio", "Ellen Page", "Tom Hardy"] },
+  { "title": "The Dark Knight", "year": 2008, "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"] },
+  { "title": "La La Land", "year": 2016, "cast": ["Ryan Gosling", "Emma Stone", "John Legend"] },
+  { "title": "The Shawshank Redemption", "year": 1994, "cast": ["Tim Robbins", "Morgan Freeman"] },
+  { "title": "Pulp Fiction", "year": 1994, "cast": ["John Travolta", "Samuel L. Jackson", "Uma Thurman"] },
+  { "title": "Forrest Gump", "year": 1994, "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise"] },
+  { "title": "The Matrix", "year": 1999, "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"] },
+  { "title": "Jurassic Park", "year": 1993, "cast": ["Sam Neill", "Laura Dern", "Jeff Goldblum"] },
+  { "title": "Avatar", "year": 2009, "cast": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"] },
+  { "title": "The Godfather", "year": 1972, "cast": ["Marlon Brando", "Al Pacino", "James Caan"] }
+]
